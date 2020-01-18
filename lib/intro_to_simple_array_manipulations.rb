@@ -11,5 +11,4 @@ end
 
 def using_pop(colors_in_the_rainbow, deleted_string)
   deleted_string = colors_in_the_rainbow.pop
-  p colors_in_the_rainbow
 end
