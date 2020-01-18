@@ -10,6 +10,6 @@ def using_unshift(colors_in_the_rainbow, firstcity)
 end
 
 def using_pop(colors_in_the_rainbow,lastcity)
-  lastcity = colors_in_the_rainbow.pop
+  newcont = colors_in_the_rainbow.pop
   p colors_in_the_rainbow
 end
