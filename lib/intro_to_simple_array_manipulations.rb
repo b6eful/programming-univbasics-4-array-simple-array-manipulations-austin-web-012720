@@ -10,6 +10,6 @@ def using_unshift(colors_in_the_rainbow, firstcity)
 end
 
 def using_pop(continents, deleted_string)
-  deleted_string = co.pop
+  deleted_string = colors_in_the_rainbow.pop
   p continents
 end
